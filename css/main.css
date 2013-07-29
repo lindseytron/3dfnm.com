@@ -1,0 +1,90 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+	background:black url('../img/dark_wall_bg.png') top center repeat-y;
+	color:white;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Helmet, Freesans, sans-serif;
+}
+.header-wrapper {
+	background-color:white;
+}
+.secondary {
+	padding:20px 10px;
+}
+.header-search {
+	margin-top:20px;
+	margin-right:15px;
+}
+#homepage-slider {
+	margin-top:40px;
+}
+h2, h2 a {
+	color:white;
+}
+h2 a:hover, h2 a:focus {
+	color:#FF0000;
+}
+.about-swap {
+	background: transparent url('../img/car-filler.jpg') center center no-repeat;
+}
+.about-swap img {
+	width:100%;
+	height:100%;
+}
+.about-swap:hover img {
+	visibility:hidden;
+}
+a.thumbnail:hover, a.thumbnail:focus {
+	border-color:#FF0000;
+}
+.content-boxes p {
+	margin: 10px 0;
+}
+.read-more {
+	font-weight:bold;
+	text-transform: uppercase;
+}
+.read-more:focus, .read-more:hover {
+	color:#FF0000;
+}
+.tagline-wrapper {
+	background-color:black;
+	padding:30px 0;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.tagline-image {
+	max-width:850px;
+	margin:auto;
+}
+.footer-wrapper {
+	background-color:white;
+	color:black;
+	min-height:100px;
+	padding-top:30px;
+}
+.footer-logo {
+	max-width:300px;
+	margin:20px auto;
+}
+.copy {
+	text-align:center;
+}
+.social-media-icons {
+	padding:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
